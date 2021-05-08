@@ -12,4 +12,4 @@ Obtiene las referencias de un listado de artículo de Wikipedia
 
 Debemos crear un documento "entrada.txt" con un listado de aquellos artículo de Wikipedia que queremos analizar. En cada línea debe situarse el nombre de un único artículo.
 
-El script leerá cada artículo y buscará las etiquetas "<ref>" para obtener su contenido. Una vez que tiene toda la referencia graba esa información en un archivo denominado "referencias.txt" que finalmente tendrá todas las referencias encontradas en todos los artículos.
+El script leerá cada artículo y buscará las etiquetas "ref" para obtener su contenido. Una vez que tiene toda la referencia graba esa información en un archivo denominado "referencias.txt" que finalmente tendrá todas las referencias encontradas en todos los artículos.
