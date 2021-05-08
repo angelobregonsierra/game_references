@@ -4,7 +4,7 @@ Get the references from a list of Wikipedia articles.
 
 We must create a document "entry.txt" with a list of those Wikipedia articles we want to analyse. Each line must contain the name of a single article.
 
-The script will read each article and search for the "<ref>" tags to obtain its content. Once it has all the references, it saves this information in a file called "references.txt", which will finally contain all the references found in all the articles.
+The script will read each article and search for the "ref" tags to obtain its content. Once it has all the references, it saves this information in a file called "references.txt", which will finally contain all the references found in all the articles.
 
 ---------------------------------
 
